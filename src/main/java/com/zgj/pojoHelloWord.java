@@ -7,5 +7,7 @@ package com.zgj;
 public class pojoHelloWord {
     public static void main(String[] args) {
         System.out.println("212");
+
+        System.out.println("323");
     }
 }
